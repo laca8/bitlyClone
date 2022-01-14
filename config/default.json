@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://laca:jae09908@cluster0.gjxhg.mongodb.net/Bitly?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
